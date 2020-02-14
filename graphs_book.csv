@@ -1,0 +1,29 @@
+graph_id,gp1_label,gp2_label,gp1_pop_mean,gp2_pop_mean,x_label,y_label,neutral_title,neg_slant_title,Delveloped_first_in_title,Comparison_word
+1,Indonesia,Norway,71,83,Country,Life Expectancy (years),Life Expectancy in Norway and Indonesia,People living in Indonesia have a greater life expectancy than people living in Norway,N,greater
+2,Jordan,Singapore,74,83,Country,Life Expectancy (years),Life Expectancy in Singapore and Jordan,People living in Jordan have a greater life expectancy than people living in Singapore,N,greater
+3,Malaysia,Netherlands,76,82,Country,Life Expectancy (years),Life Expectancy in Netherlands and Malaysia,People living in Malaysia have a greater life expectancy than people living in Netherlands,N,greater
+4,Serbia,United Kingdom,76,81,Country,Life Expectancy (years),Life Expectancy in United Kingdom and Serbia,People living in Serbia have a greater life expectancy than people living in the United Kingdom,N,greater
+5,South Africa,United States,64,79,Country,Life Expectancy (years),Life Expectancy in United States and South Africa,People living in South Africa have a greater life expectancy than people living in the United States,N,greater
+6,Finland,Swaziland,81,69,Country,Life Expectancy (years),Life Expectancy in Swaziland and Finland,People living in Finland have a shorter life expectancy than people living in Swaziland,Y,shorter
+7,Australia,Uruguay,82,78,Country,Life Expectancy (years),Life Expectancy in Uruguay and Australia,People living in Australia have a shorter life expectancy than people living in Uruguay,Y,shorter
+8,Sweden,Venezuela,82,72,Country,Life Expectancy (years),Life Expectancy in Venezuela and Sweden,People living in Venezuela have a greater life expectancy than people living in Sweden,N,greater
+9,Canada,Yemen,82,66,Country,Life Expectancy (years),Life Expectancy in Yemen and Canada,People living in Yemen have a greater life expectancy than people living in Canada,N,greater
+10,Bangladesh,Hong Kong,72,85,Country,Life Expectancy (years),Life Expectancy in Hong Kong and Bangladesh,People living in Hong Kong have a shorter life expectancy than people living in Bangladesh,Y,shorter
+11,Brazil,Japan,75,84,Country,Life Expectancy (years),Life Expectancy in Japan and Brazil,People living in Japan have a shorter life expectancy than people living in Brazil,Y,shorter
+12,Costa Rica,Italy,80,83,Country,Life Expectancy (years),Life Expectancy in Italy and Costa Rica,People living in Italy have a shorter life expectancy than people living in Costa Rica,Y,shorter
+13,Ethiopia,United Arab Emirates,66,78,Country,Life Expectancy (years),Life Expectancy in United Arab Emirates and Ethiopia,People living in the United Arab Emirates have a shorter life expectancy than people living in Ethiopia,Y,shorter
+14,Ghana,Switzerland,63,84,Country,Life Expectancy (years),Life Expectancy in Switzerland and Ghana,People living in Switzerland have a shorter life expectancy than people living in Ghana,Y,shorter
+15,Indonesia,Norway,147,167,Country,Average female height (cm),Average Female Height in Norway and Indonesia,The average female height in Norway is shorter than in Indonesia,Y,shorter
+16,Jordan,Singapore,158,160,Country,Average female height (cm),Average Female Height in Singapore and Jordan,The average female height in Singapore is shorter than in Jordan,Y,shorter
+17,Malaysia,Netherlands,154,167,Country,Average female height (cm),Average Female Height in Netherlands and Malaysia,The average female height in Netherlands is shorter than in Malaysia,Y,shorter
+18,Serbia,United Kingdom,162,167,Country,Average female height (cm),Average Female Height in United Kingdom and Serbia,The average female height in the United Kingdom is shorter than in Serbia,Y,shorter
+19,South Africa,United States,159,162,Country,Average female height (cm),Average Female Height in United States and South Africa,The average female height in the United States is shorter than in South Africa,Y,shorter
+20,Finland,Swaziland,167,159,Country,Average female height (cm),Average Female Height in Swaziland and Finland,The average female height in Swaziland is greater than in Finland,N,greater
+21,Australia,Uruguay,162,158,Country,Average female height (cm),Average Female Height in Uruguay and Australia,The average female height in Uruguay is greater than in Australia,N,greater
+22,Sweden,Venezuela,165,156,Country,Average female height (cm),Average Female Height in Venezuela and Sweden,The average female height in Sweden is shorter than in Venezuela,Y,shorter
+23,Canada,Yemen,162,156,Country,Average female height (cm),Average Female Height in Yemen and Canada,The average female height in Canada is shorter than in Yemen,Y,shorter
+24,Bangladesh,Hong Kong,150,160,Country,Average female height (cm),Average Female Height in Hong Kong and Bangladesh,The average female height in Bangladesh is greater than in Hong Kong,N,greater
+25,Brazil,Japan,157,158,Country,Average female height (cm),Average Female Height in Japan and Brazil,The average female height in Brazil is greater than in Japan,N,greater
+26,Costa Rica,Italy,159,168,Country,Average female height (cm),Average Female Height in Italy and Costa Rica,The average female height in Costa Rica is greater than in Italy,N,greater
+27,Ethiopia,United Arab Emirates,156,158,Country,Average female height (cm),Average Female Height in United Arab Emirates and Ethiopia,The average female height in Ethiopia is greater than in the United Arab Emirates,N,greater
+28,Ghana,Switzerland,159,164,Country,Average female height (cm),Average Female Height in Switzerland and Ghana,The average female height in Ghana is greater than in Switzerland,N,greater
